@@ -1,0 +1,31 @@
+body{
+			background-image: url("bg.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			color: darkslategrey;
+			text-align: center;
+			}
+header{
+	background-color: aliceblue;
+	text-align: center;
+}
+table{
+	border: solid 1pt black;
+	border-collapse: collapse;
+	margin-left: 200px;
+}
+td{
+	border: solid 1pt black;
+	background-color: #FFCCFF;
+	}
+tr{
+	border: solid 1pt black;
+}
+th{
+	background-color: lightpink;
+	border: solid 1pt black;
+}
+caption{
+	font-weight: bold;
+	font-size: 16pt;
+}

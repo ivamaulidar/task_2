@@ -1,0 +1,12 @@
+body{
+			background-image: url("bg.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			color: darkslategrey;
+			}
+form{
+			text-align: center;
+			border: solid;
+}
+input{ 		border border-radius: 25px; 
+}
